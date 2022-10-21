@@ -1,0 +1,43 @@
+
+p {
+    font-family: "Courier New", Courier, monospace;    
+    font-size: 0.9em;
+    line-height: 1.5em;
+    margin: 0.5em 0;
+    color: #333;
+}
+body {
+    background-image: url("./Papier01.svg");
+    background-size: 100%;
+    padding: 11em;
+}
+
+html {
+    background-color: rgb(58, 58, 58);
+
+
+}
+
+h1 {
+    font-family: "Ink Free", cursive;
+    font-size: 2em;
+    margin: 0.5em 0;
+}
+
+h2 {
+    font-family: serif;
+    font-size: 1.5em;
+    margin: 0.5em 0;
+    color:rgb(58, 58, 58);
+    
+}
+
+table a {
+    color: #333 !important;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 0.9em;
+}
+
+img {
+    box-shadow: 0 0 90px rgba(0, 0, 0, 0.5);
+}

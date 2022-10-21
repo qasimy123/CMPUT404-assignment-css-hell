@@ -22,3 +22,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+
+
+https://www.gutenberg.org/ebooks/64317
+https://www.gutenberg.org/ebooks/67979
+https://www.gutenberg.org/ebooks/345
