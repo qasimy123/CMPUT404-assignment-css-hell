@@ -1,0 +1,95 @@
+html {
+    font-family:fantasy;
+    background-color: blue;
+    cursor: grabbing;
+    text-decoration:wavy;
+}
+
+h1::after{
+    content: ' 🙌';
+    
+}
+
+
+body {
+    background-color: rgba(134, 255, 221, 0.442);
+    width: fit-content;
+    box-shadow: 0 15px 20px 0 rgba(0, 0, 0, .08);
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+
+th {
+    font-weight: bold;
+    background-color: #e0f0f6;
+    padding: 1em;
+    text-align: left;
+    border-radius: 1em;
+}
+
+td {
+    padding: 1em;
+}
+
+img {
+    border: 5px solid #022B3A;
+    border-radius: 5em;
+}
+.main {
+    padding: 1em;
+}
+.page {
+    display: flex;
+    padding: 2em;
+}
+.sidebar {
+    background-color: #c51dd1;
+    padding: 2em;
+    color: darkslategrey;
+}
+
+.navbar {
+    background-color: #022B3A;
+    color: #fff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.header {
+    background-image: url("space.jpeg");
+
+    color: #fff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    background-color: #022B3A;
+    color: #fff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social {
+    background-color: #e0f0f6;
+    padding: 2em;
+    color: darkslategrey;
+    display: flex;
+    justify-content: space-between;
+}
+.social a {
+    color: #022B3A;
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid #022B3A;
+}

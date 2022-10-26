@@ -27,3 +27,5 @@ Code is licensed under the Apache 2.0 license.
 https://www.gutenberg.org/ebooks/64317
 https://www.gutenberg.org/ebooks/67979
 https://www.gutenberg.org/ebooks/345
+https://publicdomainvectors.org/en/free-clipart/Retro-paper-shape/51259.html
+https://www.publicdomainpictures.net/en/view-image.php?image=435627&picture=spaceship-colonization-space
